@@ -1,0 +1,483 @@
+﻿name,county,land_area
+Adelanto,San Bernardino,56.01
+Agoura Hills,Los Angeles,7.79
+Alameda,Alameda,10.61
+Albany,Alameda,1.79
+Alhambra,Los Angeles,7.63
+Aliso Viejo,Orange,7.47
+Alturas,Modoc,2.43
+Amador City,Amador,0.31
+American Canyon,Napa,4.84
+Anaheim,Orange,49.84
+Anderson,Shasta,6.37
+Angels Camp,Calaveras,3.63
+Antioch,Contra Costa,28.35
+Apple Valley,San Bernardino,73.19
+Arcadia,Los Angeles,10.93
+Arcata,Humboldt,9.1
+Arroyo Grande,San Luis Obispo,5.84
+Artesia,Los Angeles,1.62
+Arvin,Kern,4.82
+Atascadero,San Luis Obispo,25.64
+Atherton,San Mateo,5.02
+Atwater,Merced,6.09
+Auburn,Placer,7.14
+Avalon,Los Angeles,2.94
+Avenal,Kings,19.42
+Azusa,Los Angeles,9.66
+Bakersfield,Kern,142.16
+Baldwin Park,Los Angeles,6.63
+Banning,Riverside,23.1
+Barstow,San Bernardino,41.38
+Beaumont,Riverside,30.91
+Bell,Los Angeles,2.5
+Bell Gardens,Los Angeles,2.46
+Bellflower,Los Angeles,6.12
+Belmont,San Mateo,4.62
+Belvedere,Marin,0.52
+Benicia,Solano,12.93
+Berkeley,Alameda,10.47
+Beverly Hills,Los Angeles,5.71
+Big Bear Lake,San Bernardino,6.35
+Biggs,Butte,0.64
+Bishop,Inyo,1.86
+Blue Lake,Humboldt,0.59
+Blythe,Riverside,26.19
+Bradbury,Los Angeles,1.96
+Brawley,Imperial,7.68
+Brea,Orange,12.08
+Brentwood,Contra Costa,14.79
+Brisbane,San Mateo,3.1
+Buellton,Santa Barbara,1.58
+Buena Park,Orange,10.52
+Burbank,Los Angeles,17.34
+Burlingame,San Mateo,4.41
+Calabasas,Los Angeles,12.9
+Calexico,Imperial,8.39
+California City,Kern,203.52
+Calimesa,Riverside,14.85
+Calipatria,Imperial,3.72
+Calistoga,Napa,2.6
+Camarillo,Ventura,19.53
+Campbell,Santa Clara,5.8
+Canyon Lake,Riverside,3.93
+Capitola,Santa Cruz,1.59
+Carlsbad,San Diego,37.72
+Carmel-by-the-Sea,Monterey,1.08
+Carpinteria,Santa Barbara,2.59
+Carson,Los Angeles,18.72
+Cathedral City,Riverside,21.5
+Ceres,Stanislaus,8.01
+Cerritos,Los Angeles,8.73
+Chico,Butte,32.92
+Chino,San Bernardino,29.64
+Chino Hills,San Bernardino,44.68
+Chowchilla,Madera,7.66
+Chula Vista,San Diego,49.63
+Citrus Heights,Sacramento,14.23
+Claremont,Los Angeles,13.35
+Clayton,Contra Costa,3.84
+Clearlake,Lake,10.13
+Cloverdale,Sonoma,2.65
+Clovis,Fresno,23.28
+Coachella,Riverside,28.95
+Coalinga,Fresno,6.12
+Colfax,Placer,1.41
+Colma,San Mateo,1.91
+Colton,San Bernardino,15.32
+Colusa,Colusa,1.83
+Commerce,Los Angeles,6.54
+Compton,Los Angeles,10.01
+Concord,Contra Costa,30.55
+Corcoran,Kings,7.47
+Corning,Tehama,3.55
+Corona,Riverside,38.83
+Coronado,San Diego,7.93
+Corte Madera,Marin,3.16
+Costa Mesa,Orange,15.65
+Cotati,Sonoma,1.88
+Covina,Los Angeles,7.03
+Crescent City,Del Norte,1.96
+Cudahy,Los Angeles,1.18
+Culver City,Los Angeles,5.11
+Cupertino,Santa Clara,11.26
+Cypress,Orange,6.58
+Daly City,San Mateo,7.66
+Dana Point,Orange,6.5
+Danville,Contra Costa,18.03
+Davis,Yolo,9.89
+Del Mar,San Diego,1.71
+Del Rey Oaks,Monterey,0.48
+Delano,Kern,14.3
+Desert Hot Springs,Riverside,23.62
+Diamond Bar,Los Angeles,14.88
+Dinuba,Tulare,6.47
+Dixon,Solano,7
+Dorris,Siskiyou,0.7
+Dos Palos,Merced,1.35
+Downey,Los Angeles,12.41
+Duarte,Los Angeles,6.69
+Dublin,Alameda,14.91
+Dunsmuir,Siskiyou,1.7
+East Palo Alto,San Mateo,2.51
+Eastvale,Riverside,13.1
+El Cajon,San Diego,14.43
+El Centro,Imperial,11.08
+El Cerrito,Contra Costa,3.69
+El Monte,Los Angeles,9.56
+El Segundo,Los Angeles,5.46
+Elk Grove,Sacramento,42.19
+Emeryville,Alameda,1.25
+Encinitas,San Diego,18.81
+Escalon,San Joaquin,2.3
+Escondido,San Diego,36.81
+Etna,Siskiyou,0.76
+Eureka,Humboldt,9.38
+Exeter,Tulare,2.46
+Fairfax,Marin,2.2
+Fairfield,Solano,37.39
+Farmersville,Tulare,2.26
+Ferndale,Humboldt,1.03
+Fillmore,Ventura,3.36
+Firebaugh,Fresno,3.46
+Folsom,Sacramento,21.95
+Fontana,San Bernardino,42.43
+Fort Bragg,Mendocino,2.75
+Fort Jones,Siskiyou,0.6
+Fortuna,Humboldt,4.85
+Foster City,San Mateo,3.76
+Fountain Valley,Orange,9.02
+Fowler,Fresno,2.53
+Fremont,Alameda,77.46
+Fresno,Fresno,111.96
+Fullerton,Orange,22.35
+Galt,Sacramento,5.93
+Garden Grove,Orange,17.94
+Gardena,Los Angeles,5.83
+Gilroy,Santa Clara,16.15
+Glendale,Los Angeles,30.45
+Glendora,Los Angeles,19.39
+Goleta,Santa Barbara,7.9
+Gonzales,Monterey,1.92
+Grand Terrace,San Bernardino,3.5
+Grass Valley,Nevada,4.74
+Greenfield,Monterey,2.14
+Gridley,Butte,2.07
+Grover Beach,San Luis Obispo,2.31
+Guadalupe,Santa Barbara,1.31
+Gustine,Merced,1.55
+Half Moon Bay,San Mateo,6.42
+Hanford,Kings,16.59
+Hawaiian Gardens,Los Angeles,0.95
+Hawthorne,Los Angeles,6.08
+Hayward,Alameda,45.32
+Healdsburg,Sonoma,4.46
+Hemet,Riverside,27.85
+Hercules,Contra Costa,6.21
+Hermosa Beach,Los Angeles,1.43
+Hesperia,San Bernardino,73.1
+Hidden Hills,Los Angeles,1.69
+Highland,San Bernardino,18.76
+Hillsborough,San Mateo,6.19
+Hollister,San Benito,7.29
+Holtville,Imperial,1.15
+Hughson,Stanislaus,1.82
+Huntington Beach,Orange,26.75
+Huntington Park,Los Angeles,3.01
+Huron,Fresno,1.59
+Imperial,Imperial,5.86
+Imperial Beach,San Diego,4.16
+Indian Wells,Riverside,14.32
+Indio,Riverside,29.18
+Industry,Los Angeles,11.78
+Inglewood,Los Angeles,9.07
+Ione,Amador,4.76
+Irvine,Orange,66.11
+Irwindale,Los Angeles,8.83
+Isleton,Sacramento,0.44
+Jackson,Amador,3.73
+Jurupa Valley,Riverside,43.7
+Kerman,Fresno,3.23
+King City,Monterey,3.84
+Kingsburg,Fresno,2.83
+La Cañada Flintridge,Los Angeles,8.63
+La Habra,Orange,7.37
+La Habra Heights,Los Angeles,6.16
+La Mesa,San Diego,9.08
+La Mirada,Los Angeles,7.84
+La Palma,Orange,1.81
+La Puente,Los Angeles,3.48
+La Quinta,Riverside,35.12
+La Verne,Los Angeles,8.43
+Lafayette,Contra Costa,15.22
+Laguna Beach,Orange,8.85
+Laguna Hills,Orange,6.67
+Laguna Niguel,Orange,14.83
+Laguna Woods,Orange,3.12
+Lake Elsinore,Riverside,36.21
+Lake Forest,Orange,17.82
+Lakeport,Lake,3.06
+Lakewood,Los Angeles,9.41
+Lancaster,Los Angeles,94.28
+Larkspur,Marin,3.03
+Lathrop,San Joaquin,21.93
+Lawndale,Los Angeles,1.97
+Lemon Grove,San Diego,3.88
+Lemoore,Kings,8.52
+Lincoln,Placer,20.11
+Lindsay,Tulare,2.61
+Live Oak,Sutter,1.87
+Livermore,Alameda,25.17
+Livingston,Merced,3.72
+Lodi,San Joaquin,13.61
+Loma Linda,San Bernardino,7.52
+Lomita,Los Angeles,1.91
+Lompoc,Santa Barbara,11.6
+Long Beach,Los Angeles,50.29
+Loomis,Placer,7.27
+Los Alamitos,Orange,4.05
+Los Altos,Santa Clara,6.49
+Los Altos Hills,Santa Clara,8.8
+Los Angeles,Los Angeles,468.67
+Los Banos,Merced,9.99
+Los Gatos,Santa Clara,11.08
+Loyalton,Sierra,0.36
+Lynwood,Los Angeles,4.84
+Madera,Madera,15.79
+Malibu,Los Angeles,19.78
+Mammoth Lakes,Mono,24.87
+Manhattan Beach,Los Angeles,3.94
+Manteca,San Joaquin,17.73
+Maricopa,Kern,1.5
+Marina,Monterey,8.88
+Martinez,Contra Costa,12.13
+Marysville,Yuba,3.46
+Maywood,Los Angeles,1.18
+McFarland,Kern,2.67
+Mendota,Fresno,3.28
+Menifee,Riverside,46.47
+Menlo Park,San Mateo,9.79
+Merced,Merced,23.32
+Mill Valley,Marin,4.76
+Millbrae,San Mateo,3.25
+Milpitas,Santa Clara,13.59
+Mission Viejo,Orange,17.74
+Modesto,Stanislaus,36.87
+Monrovia,Los Angeles,13.6
+Montague,Siskiyou,1.78
+Montclair,San Bernardino,5.52
+Monte Sereno,Santa Clara,1.62
+Montebello,Los Angeles,8.33
+Monterey,Monterey,8.47
+Monterey Park,Los Angeles,7.67
+Moorpark,Ventura,12.58
+Moraga,Contra Costa,9.43
+Moreno Valley,Riverside,51.27
+Morgan Hill,Santa Clara,12.88
+Morro Bay,San Luis Obispo,5.3
+Mount Shasta,Siskiyou,3.77
+Mountain View,Santa Clara,12
+Murrieta,Riverside,33.58
+Napa,Napa,17.84
+National City,San Diego,7.28
+Needles,San Bernardino,30.81
+Nevada City,Nevada,2.19
+Newark,Alameda,13.87
+Newman,Stanislaus,2.1
+Newport Beach,Orange,23.8
+Norco,Riverside,13.96
+Norwalk,Los Angeles,9.71
+Novato,Marin,27.44
+Oakdale,Stanislaus,6.04
+Oakland,Alameda,55.79
+Oakley,Contra Costa,15.85
+Oceanside,San Diego,41.23
+Ojai,Ventura,4.39
+Ontario,San Bernardino,49.94
+Orange,Orange,24.8
+Orange Cove,Fresno,1.91
+Orinda,Contra Costa,12.68
+Orland,Glenn,2.97
+Oroville,Butte,12.99
+Oxnard,Ventura,26.89
+Pacific Grove,Monterey,2.86
+Pacifica,San Mateo,12.66
+Palm Desert,Riverside,26.81
+Palm Springs,Riverside,94.12
+Palmdale,Los Angeles,105.96
+Palo Alto,Santa Clara,23.88
+Palos Verdes Estates,Los Angeles,4.77
+Paradise,Butte,18.31
+Paramount,Los Angeles,4.73
+Parlier,Fresno,2.19
+Pasadena,Los Angeles,22.97
+Paso Robles,San Luis Obispo,19.12
+Patterson,Stanislaus,5.95
+Perris,Riverside,31.39
+Petaluma,Sonoma,14.38
+Pico Rivera,Los Angeles,8.3
+Piedmont,Alameda,1.68
+Pinole,Contra Costa,5.32
+Pismo Beach,San Luis Obispo,3.6
+Pittsburg,Contra Costa,17.22
+Placentia,Orange,6.57
+Placerville,El Dorado,5.81
+Pleasant Hill,Contra Costa,7.07
+Pleasanton,Alameda,24.11
+Plymouth,Amador,0.93
+Point Arena,Mendocino,1.35
+Pomona,Los Angeles,22.95
+Port Hueneme,Ventura,4.45
+Porterville,Tulare,17.61
+Portola,Plumas,5.41
+Portola Valley,San Mateo,9.09
+Poway,San Diego,39.08
+Rancho Cordova,Sacramento,33.51
+Rancho Cucamonga,San Bernardino,39.85
+Rancho Mirage,Riverside,24.45
+Rancho Palos Verdes,Los Angeles,13.46
+Rancho Santa Margarita,Orange,12.96
+Red Bluff,Tehama,7.56
+Redding,Shasta,59.65
+Redlands,San Bernardino,36.13
+Redondo Beach,Los Angeles,6.2
+Redwood City,San Mateo,19.42
+Reedley,Fresno,5.08
+Rialto,San Bernardino,22.35
+Richmond,Contra Costa,30.07
+Ridgecrest,Kern,20.77
+Rio Dell,Humboldt,2.28
+Rio Vista,Solano,6.69
+Ripon,San Joaquin,5.3
+Riverbank,Stanislaus,4.09
+Riverside,Riverside,81.14
+Rocklin,Placer,19.54
+Rohnert Park,Sonoma,7
+Rolling Hills,Los Angeles,2.99
+Rolling Hills Estates,Los Angeles,3.57
+Rosemead,Los Angeles,5.16
+Roseville,Placer,36.22
+Ross,Marin,1.56
+Sacramento,Sacramento,97.92
+St. Helena,Napa,4.99
+Salinas,Monterey,23.18
+San Anselmo,Marin,2.68
+San Bernardino,San Bernardino,59.2
+San Bruno,San Mateo,5.48
+San Carlos,San Mateo,5.54
+San Clemente,Orange,18.71
+San Diego,San Diego,325.19
+San Dimas,Los Angeles,15.04
+San Fernando,Los Angeles,2.37
+San Francisco,San Francisco,46.87
+San Gabriel,Los Angeles,4.14
+San Jacinto,Riverside,25.72
+San Joaquin,Fresno,1.15
+San Jose,Santa Clara,176.53
+San Juan Bautista,San Benito,0.71
+San Juan Capistrano,Orange,14.12
+San Leandro,Alameda,13.34
+San Luis Obispo,San Luis Obispo,12.78
+San Marcos,San Diego,24.37
+San Marino,Los Angeles,3.77
+San Mateo,San Mateo,12.13
+San Pablo,Contra Costa,2.63
+San Rafael,Marin,16.47
+San Ramon,Contra Costa,18.06
+Sand City,Monterey,0.56
+Sanger,Fresno,5.52
+Santa Ana,Orange,27.27
+Santa Barbara,Santa Barbara,19.47
+Santa Clara,Santa Clara,18.41
+Santa Clarita,Los Angeles,52.72
+Santa Cruz,Santa Cruz,12.74
+Santa Fe Springs,Los Angeles,8.87
+Santa Maria,Santa Barbara,22.76
+Santa Monica,Los Angeles,8.41
+Santa Paula,Ventura,4.59
+Santa Rosa,Sonoma,41.29
+Santee,San Diego,16.24
+Saratoga,Santa Clara,12.38
+Sausalito,Marin,1.77
+Scotts Valley,Santa Cruz,4.59
+Seal Beach,Orange,11.29
+Seaside,Monterey,9.24
+Sebastopol,Sonoma,1.85
+Selma,Fresno,5.14
+Shafter,Kern,27.94
+Shasta Lake,Shasta,10.92
+Sierra Madre,Los Angeles,2.95
+Signal Hill,Los Angeles,2.19
+Simi Valley,Ventura,41.48
+Solana Beach,San Diego,3.52
+Soledad,Monterey,4.41
+Solvang,Santa Barbara,2.43
+Sonoma,Sonoma,2.74
+Sonora,Tuolumne,3.06
+South El Monte,Los Angeles,2.84
+South Gate,Los Angeles,7.24
+South Lake Tahoe,El Dorado,10.16
+South Pasadena,Los Angeles,3.41
+South San Francisco,San Mateo,9.14
+Stanton,Orange,3.15
+Stockton,San Joaquin,61.67
+Suisun City,Solano,4.11
+Sunnyvale,Santa Clara,21.99
+Susanville,Lassen,7.93
+Sutter Creek,Amador,2.56
+Taft,Kern,15.11
+Tehachapi,Kern,9.87
+Tehama,Tehama,0.79
+Temecula,Riverside,30.15
+Temple City,Los Angeles,4.01
+Thousand Oaks,Ventura,55.03
+Tiburon,Marin,4.43
+Torrance,Los Angeles,20.48
+Tracy,San Joaquin,22
+Trinidad,Humboldt,0.48
+Truckee,Nevada,32.32
+Tulare,Tulare,20.93
+Tulelake,Siskiyou,0.41
+Turlock,Stanislaus,16.93
+Tustin,Orange,11.08
+Twentynine Palms,San Bernardino,59.14
+Ukiah,Mendocino,4.67
+Union City,Alameda,19.47
+Upland,San Bernardino,15.62
+Vacaville,Solano,28.37
+Vallejo,Solano,30.67
+Ventura,Ventura,21.65
+Vernon,Los Angeles,4.97
+Victorville,San Bernardino,73.18
+Villa Park,Orange,2.08
+Visalia,Tulare,36.25
+Vista,San Diego,18.68
+Walnut,Los Angeles,8.99
+Walnut Creek,Contra Costa,19.76
+Wasco,Kern,9.43
+Waterford,Stanislaus,2.33
+Watsonville,Santa Cruz,6.69
+Weed,Siskiyou,4.79
+West Covina,Los Angeles,16.04
+West Hollywood,Los Angeles,1.89
+West Sacramento,Yolo,21.43
+Westlake Village,Los Angeles,5.19
+Westminster,Orange,10.05
+Westmorland,Imperial,0.59
+Wheatland,Yuba,1.48
+Whittier,Los Angeles,14.65
+Wildomar,Riverside,23.69
+Williams,Colusa,5.44
+Willits,Mendocino,2.8
+Willows,Glenn,2.85
+Windsor,Sonoma,7.27
+Winters,Yolo,2.91
+Woodlake,Tulare,2.25
+Woodland,Yolo,15.3
+Woodside,San Mateo,11.73
+Yorba Linda,Orange,19.48
+Yountville,Napa,1.53
+Yreka,Siskiyou,9.98
+Yuba City,Sutter,14.58
+Yucaipa,San Bernardino,27.89
+Yucca Valley,San Bernardino,40.02
