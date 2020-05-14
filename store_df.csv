@@ -1,109 +1,108 @@
-city_name,store_num
 Agoura Hills,1
-Alameda,0
+Alameda,1
 Aliso Viejo,1
 Arroyo Grande,1
 Bakersfield,1
-Berkeley,0
-Brea,0
+Berkeley,1
+Brea,1
 Brentwood,1
-Burbank,0
+Burbank,1
 Calabasas,1
 Camarillo,1
 Campbell,1
-Capitola,0
-Carlsbad,0
+Capitola,1
+Carlsbad,1
 Castro Valley,1
 Cathedral City,1
-Cerritos,0
+Cerritos,1
 Chatsworth,1
-Chico,0
+Chico,1
 Chino Hills,1
 Chula Vista,1
 Claremont,1
-Clovis,0
-Concord,0
-Corona,0
+Clovis,1
+Concord,2
+Corona,1
 Costa Mesa,1
 Culver City,2
-Daly City,0
-Danville,0
-Davis,0
+Daly City,1
+Danville,1
+Davis,1
 Eagle Rock,1
 El Cerrito,1
 Elk Grove,1
 Emeryville,1
-Encinitas,0
-Encino,0
-Escondido,1
-Fairfield,0
+Encinitas,1
+Encino,1
+Escondido,0
+Fairfield,1
 Fair Oaks,1
-Folsom,0
-Fremont,0
-Fresno,0
-Glendale,0
-Goleta,0
-Granada Hills,0
-Greenbrae,0
-Hermosa Beach,0
-Huntington Beach,0
-Irvine,0
+Folsom,1
+Fremont,1
+Fresno,1
+Glendale,1
+Goleta,1
+Granada Hills,1
+Greenbrae,1
+Hermosa Beach,1
+Huntington Beach,3
+Irvine,3
 La Canada,1
 Lafayette,1
 Laguna Hills,1
 Laguna Niguel,1
-La Habra,0
-La Jolla,0
-La Mesa,0
+La Habra,1
+La Jolla,1
+La Mesa,1
 La Quinta,1
 Livermore,1
 Long Beach,3
-Los Altos,0
+Los Altos,1
 Los Angeles,11
 Los Gatos,1
 Manhattan Bch.,1
 Manhattan Beach,1
 Marina Del Rey,1
 Menlo Park,1
-Millbrae,0
+Millbrae,1
 Mission Viejo,1
-Modesto,0
+Modesto,1
 Monrovia,1
 Monterey,1
 Montrose,1
 Morgan Hill,1
 Mountain View,1
-Napa,0
+Napa,1
 Newport Beach,1
 North Hollywood,1
-Novato,0
-Oakland,0
+Novato,1
+Oakland,2
 Oceanside,1
-Orange,0
+Orange,1
 Pacific Grove,1
-Palmdale,0
+Palmdale,1
 Palm Desert,1
-Palo Alto,0
+Palo Alto,1
 Pasadena,4
 Petaluma,1
-Pinole,0
+Pinole,1
 Pleasanton,1
-Rancho Cucamonga,0
-Rancho Palos Verdes,0
-Rancho Santa Margarita,0
-Redding,0
-Redlands,0
+Rancho Cucamonga,1
+Rancho Palos Verdes,2
+Rancho Santa Margarita,1
+Redding,1
+Redlands,1
 Redondo Bch.,1
-Riverside,0
-Roseville,0
+Riverside,1
+Roseville,1
 Sacramento,2
 San Carlos,1
 San Clemente,1
 San Diego,8
 San Dimas,1
 San Francisco,6
-San Jose,0
-San Juan Capistrano,0
+San Jose,4
+San Juan Capistrano,1
 San Luis Obispo,1
 San Mateo,2
 San Rafael,1
@@ -117,23 +116,23 @@ Santa Monica,2
 Santa Rosa,2
 Sherman Oaks,1
 Simi Valley,1
-South San Francisco,0
+South San Francisco,1
 S. Pasadena,1
-Stockton,0
+Stockton,1
 Studio City,1
 Sunnyvale,1
 Temecula,1
 Templeton,1
 Thousand Oaks,2
 Toluca Lake,1
-Torrance,0
-Tustin,0
-Ventura,0
+Torrance,2
+Tustin,1
+Ventura,2
 Walnut Creek,1
 Westchester,1
 West Hills,1
 West Hollywood,2
 Westlake Village,1
-Whittier,0
+Whittier,1
 Woodland Hills,1
 Yorba Linda,1

@@ -1,49 +1,37 @@
 import pandas as pd
-import numpy as np
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException
-import time
-import plotly
-from plotly.offline import download_plotlyjs, init_notebook_mode, plot, iplot
-import plotly.figure_factory as ff
-import chart_studio.plotly as py
-import plotly.graph_objs as go
-import plotly.figure_factory as ff
+import csv
 
 path = '/Users/jordan5560/Desktop/Projects/tj_locations/chromedriver'
 
 driver = webdriver.Chrome(path)
-driver.set_window_size(1120, 1000)
-driver.get("https://locations.traderjoes.com/ca/")
-cities = driver.find_elements_by_class_name('itemlist')
-city_list = []
-for city in cities:
-        city_list.append(city.text)
+url = 'https://locations.traderjoes.com/ca/'
+driver.get(url)
+city_list = {}
+city_index = 0
+processing_cities = True
 
-num_stores_by_city = []
+while processing_cities:
 
-print(city_list)
-print(len(city_list))
+        cities = driver.find_elements_by_css_selector('.itemlist a')
 
-index = 0
-while index < len(city_list):
-        print(city_list[index])
-        cities = driver.find_elements_by_class_name('itemlist')
-        cities[index].click()
-        num = len(driver.find_elements_by_class_name('address-left'))
-        num_stores_by_city.append(num)
-        if num != 0:
-                driver.find_element_by_xpath(
-                    '//*[@id="content"]/a[2]').click()
+        if city_index < len(cities):
+                city_text = cities[city_index].text
+                cities[city_index].click()
+                store_locations = driver.find_elements_by_css_selector(
+                    '.itemlist')
+                city_list[city_text] = len(store_locations)
+                driver.get(url)
+                city_index += 1
         else:
-                print("number of stores in " +
-                      city_list[index] + " not found")
-        index += 1
+                processing_cities = False
 
+file = open("store_df.csv", "w")
 
-driver.close()
-df = pd.DataFrame()
-df['city_name'] = city_list
-df['store_num'] = num_stores_by_city
-df.to_csv('scraped_store_data.csv')
+writer = csv.writer(file, )
+for key, value in city_list.items():
+        writer.writerow([key, value])
+
+file.close()
