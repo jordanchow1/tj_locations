@@ -12,3 +12,5 @@ City Land Areas: https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Calif
 County Land Areas: https://en.wikipedia.org/wiki/List_of_counties_in_California
 
 County FIPS: https://www.weather.gov/hnx/cafips
+
+County Median Household Income: https://www.indexmundi.com/facts/united-states/quick-facts/california/median-household-income#table
