@@ -1,10 +1,4 @@
 import pandas as pd
-<<<<<<< HEAD
-from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
-from selenium.common.exceptions import NoSuchElementException
-import csv
-=======
 import numpy as np
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
@@ -16,41 +10,10 @@ import plotly.figure_factory as ff
 import chart_studio.plotly as py
 import plotly.graph_objs as go
 import plotly.figure_factory as ff
->>>>>>> 767a7ae67700d830e192beb9a49c6766b22dedcd
 
 path = '/Users/jordan5560/Desktop/Projects/tj_locations/chromedriver'
 
 driver = webdriver.Chrome(path)
-<<<<<<< HEAD
-url = 'https://locations.traderjoes.com/ca/'
-driver.get(url)
-city_list = {}
-city_index = 0
-processing_cities = True
-
-while processing_cities:
-
-        cities = driver.find_elements_by_css_selector('.itemlist a')
-
-        if city_index < len(cities):
-                city_text = cities[city_index].text
-                cities[city_index].click()
-                store_locations = driver.find_elements_by_css_selector(
-                    '.itemlist')
-                city_list[city_text] = len(store_locations)
-                driver.get(url)
-                city_index += 1
-        else:
-                processing_cities = False
-
-file = open("store_df.csv", "w")
-
-writer = csv.writer(file, )
-for key, value in city_list.items():
-        writer.writerow([key, value])
-
-file.close()
-=======
 driver.set_window_size(1120, 1000)
 driver.get("https://locations.traderjoes.com/ca/")
 cities = driver.find_elements_by_class_name('itemlist')
@@ -84,4 +47,3 @@ df = pd.DataFrame()
 df['city_name'] = city_list
 df['store_num'] = num_stores_by_city
 df.to_csv('scraped_store_data.csv')
->>>>>>> 767a7ae67700d830e192beb9a49c6766b22dedcd
