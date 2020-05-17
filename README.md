@@ -14,3 +14,6 @@ County Land Areas: https://en.wikipedia.org/wiki/List_of_counties_in_California
 County FIPS: https://www.weather.gov/hnx/cafips
 
 County Median Household Income: https://www.indexmundi.com/facts/united-states/quick-facts/california/median-household-income#table
+
+## Resources
+Linear Regression: https://towardsdatascience.com/a-beginners-guide-to-linear-regression-in-python-with-scikit-learn-83a8f7ae2b4f
