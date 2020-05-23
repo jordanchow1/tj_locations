@@ -4,7 +4,7 @@ The aim of this data science project is to analyze factors that might play a rol
 
 To further explore the possibile relationship between the number of stores and the median income in a neighborhood, I focused on California and pulled data on median household income for each county, county land area, population, and other census statistics from various sources, and conducted linear regression and Poisson regression to examine the statistical significance of each of the features, and finally ran a random forest to predict the number of TJ's stores in a given county.
 ## Webscraping
-Selenium and Python were used to extract the number of Trader Joe's stores in each of the cities in California from the Trader Joe's website, as well as county median household income from IndexMundi.
+Selenium and Python were used to extract the number of Trader Joe's stores in each of the cities in California from the Trader Joe's website, as well as county median household income from IndexMundi. A total of 138 stores in 28 counties were scraped.
 ## Selected Graphs
 ![Median Household Income by County](Screen%20Shot%202020-05-22%20at%209.16.05%20PM.png)
 ![Total Population vs Number of Stores](Screen%20Shot%202020-05-22%20at%209.16.53%20PM.png)
