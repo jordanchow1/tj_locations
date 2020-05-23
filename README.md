@@ -4,12 +4,22 @@ The aim of this data science project is to analyze factors that might play a rol
 
 To further explore the possibile relationship between the number of stores and the median income in a neighborhood, I focused on California and pulled data on median household income for each county, county land area, population, and other census statistics from various sources, and conducted linear regression and Poisson regression to examine the statistical significance of each of the features, and finally ran a random forest to predict the number of TJ's stores in a given county.
 
-## Summary
+## Webscraping
+Selenium and Python were used to extract the number of Trader Joe's stores in each of the cities in California from the Trader Joe's website, as well as county median household income from IndexMundi.
+
+## Findings
+![Median Household Income by County](Screen%20Shot%202020-05-22%20at%209.16.05%20PM.png)
+
+### Key findings:
+- Population seems to the most significant factor contributing to the number of stores in a county, with a Pearson corelation (Pearson's r) of 0.961518. In particular, LA county has both the largest population and the most Trader Joes' stores.
+- Household is also highly correlated with number of stores with a orrelation of 0.961889. This makes sense since population and household are positively correlated.
+- Surprisingly, population density does not have a strong correlation with the number of stores in a county, with a correlation of only 0.11786.
+- Some other factors such as single detached/attached homes and mobile homes also have high positive correlations but they can be ignored for the sake of our analysis because of multicollinearity.
 
 
 ## Limitations
 
-### Data Sources
+## Data Sources
 Census data: http://www.dof.ca.gov/Forecasting/Demographics/Estimates/e-5/
 
 Trader Joe's Store Locations: https://locations.traderjoes.com/ca/
@@ -24,5 +34,5 @@ County FIPS: https://www.weather.gov/hnx/cafips
 
 County Median Household Income: https://www.indexmundi.com/facts/united-states/quick-facts/california/median-household-income#table
 
-### Resources
+## Resources
 Linear Regression: https://towardsdatascience.com/a-beginners-guide-to-linear-regression-in-python-with-scikit-learn-83a8f7ae2b4f
