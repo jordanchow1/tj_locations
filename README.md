@@ -11,8 +11,8 @@ Selenium and Python were used to extract the number of Trader Joe's stores in ea
 ![Median Household Income vs Number of Stores](Screen%20Shot%202020-05-22%20at%209.17.57%20PM.png)
 ![Heatmap for All Features](Screen%20Shot%202020-05-22%20at%209.18.18%20PM.png)
 ![Counties with Most Stores](Screen%20Shot%202020-05-22%20at%209.18.35%20PM.png)
-### Key findings:
-## Linear Regression
+## Key findings:
+### Linear Regression
 - Population is the most significant factor contributing to the number of stores in a county, with a Pearson corelation (Pearson's r) of 0.961518. In particular, LA county has both the largest population and the most Trader Joes' stores.
 - Household is also highly correlated with number of stores with a correlation of 0.961889. This makes sense since population and household are positively correlated.
 - Surprisingly, population density does not have a strong correlation with the number of stores in a county, with a correlation of only 0.11786. This may have to do with the fact that population density is calculated by dividing population over total land area, where especially in this case a large proportion of the land can be undeveloped and thus remote. So, the population density could be misrepresenting the true density __experienced by the people__.
