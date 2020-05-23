@@ -7,8 +7,12 @@ To further explore the possibile relationship between the number of stores and t
 ## Webscraping
 Selenium and Python were used to extract the number of Trader Joe's stores in each of the cities in California from the Trader Joe's website, as well as county median household income from IndexMundi.
 
-## Findings
+## Selected Graphs
 ![Median Household Income by County](Screen%20Shot%202020-05-22%20at%209.16.05%20PM.png)
+![Total Population vs Number of Stores](Screen%20Shot%202020-05-22%20at%209.16.53%20PM.png)
+![Median Household Income vs Number of Stores](Screen%20Shot%202020-05-22%20at%209.17.57%20PM.png)
+![Heatmap for All Features](Screen%20Shot%202020-05-22%20at%209.18.18%20PM.png)
+![Counties with Most Stores](Screen%20Shot%202020-05-22%20at%209.18.35%20PM.png)
 
 ### Key findings:
 - Population seems to the most significant factor contributing to the number of stores in a county, with a Pearson corelation (Pearson's r) of 0.961518. In particular, LA county has both the largest population and the most Trader Joes' stores.
