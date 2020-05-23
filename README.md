@@ -17,8 +17,9 @@ Selenium and Python were used to extract the number of Trader Joe's stores in ea
 - Household is also highly correlated with number of stores with a correlation of 0.961889. This makes sense since population and household are positively correlated.
 - Surprisingly, population density does not have a strong correlation with the number of stores in a county, with a correlation of only 0.11786. This may have to do with the fact that population density is calculated by dividing population over total land area, where especially in this case a large proportion of the land can be undeveloped and thus remote. So, the population density could be misrepresenting the true density __experienced by the people__.
 - Some other factors such as single detached/attached homes and mobile homes also have high positive correlations so they can be ignored for the sake of multicollinearity.
+## Random Forest Regressor Performance:
+(do code and add confusion matrix or something)
 ## Limitations
-–
 ## Data Sources
 Census data: http://www.dof.ca.gov/Forecasting/Demographics/Estimates/e-5/
 
