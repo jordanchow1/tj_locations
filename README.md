@@ -4,7 +4,19 @@ The aim of this data science project was to analyze factors that might play a ro
 
 To further explore the possibile relationship between the number of stores and the median income in a neighborhood, I focused on California and pulled data on median household income for each county, county land area, population, and other census statistics from various sources, conducted linear regression and Poisson regression to examine the statistical significance of each of the features, and finally ran a random forest to predict the number of TJ's stores in a given county.
 ## Feature Engineering
-R (dplyr) and Python (numpy, pandas) were used to extract the statistics for each country by aggregating over all cities in each county. The 
+The US Census data contained the following city-wide variables:
+- Total Population
+- Households
+- Group Quarters
+- Total Housing Units
+- Single Detached/Attached Homes
+- Two-to-four Occupants
+- Five Plus Occupants
+- Mobile Homes
+- Occupied Units
+- Vacancy Rates
+
+R (dplyr) and Python (numpy, pandas) were used to extract the statistics for each country by aggregating over all cities in each county. Population Density was also calculated by dividing Land Area over Population.
 ## Webscraping
 Selenium and Python were used to extract the number of Trader Joe's stores in each of the cities in California from the Trader Joe's website, as well as county median household income from IndexMundi. A total of 138 stores in 28 counties were scraped.
 ## Selected Graphs
@@ -19,11 +31,9 @@ Selenium and Python were used to extract the number of Trader Joe's stores in ea
 - Surprisingly, population density does not have a strong correlation with the number of stores in a county, with a correlation of only 0.11786. This may have to do with the fact that population density is calculated by dividing land area over population, where a large proportion of the land can be undeveloped and thus remote. So, the population density could be misrepresenting the true density __experienced by the people__.
 - Some other factors such as single detached/attached homes and mobile homes also have high positive correlations so they can be ignored for the sake of multicollinearity.
 ## Model Performance:
-(do code for all three below and add confusion matrix or something):
-### Random Forest Regression
-### Linear Regression
-### Poisson Regression
-## Limitations
+- Random Forest Regression
+- Linear Regression
+- Poisson Regression
 ## Data Sources
 Census data: http://www.dof.ca.gov/Forecasting/Demographics/Estimates/e-5/
 
