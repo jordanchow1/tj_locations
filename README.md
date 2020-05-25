@@ -20,7 +20,7 @@ R (dplyr) and Python (numpy, pandas) were used to extract the statistics for eac
 ## Webscraping
 Selenium and Python were used to extract the number of Trader Joe's stores in each of the cities in California from the Trader Joe's website, as well as county median household income from IndexMundi. A total of 138 stores in 28 counties were scraped.
 ## Selected Graphs
-![Median Household Income by County](Screen%20Shot%202020-05-22%20at%209.16.05%20PM.png)
+![Median Household Income by County](Screen%20Shot%202020-05-22%20at%209.16.05%20PM.png | width=100)
 ![Total Population vs Number of Stores](Screen%20Shot%202020-05-22%20at%209.16.53%20PM.png)
 ![Median Household Income vs Number of Stores](Screen%20Shot%202020-05-22%20at%209.17.57%20PM.png)
 ![Heatmap for All Features](Screen%20Shot%202020-05-22%20at%209.18.18%20PM.png)
@@ -30,10 +30,10 @@ Selenium and Python were used to extract the number of Trader Joe's stores in ea
 - Household is also highly correlated with number of stores with a correlation of 0.961889. This makes sense since population and household are positively correlated.
 - Surprisingly, population density does not have a strong correlation with the number of stores in a county, with a correlation of only 0.11786. This may have to do with the fact that population density is calculated by dividing land area over population, where a large proportion of the land can be undeveloped and thus remote. So, the population density could be misrepresenting the true density __experienced by the people__.
 - Some other factors such as single detached/attached homes and mobile homes also have high positive correlations so they can be ignored for the sake of multicollinearity.
-## Model Performance:
-- Random Forest Regression
-- Linear Regression
-- Poisson Regression
+## Model Performance - Accuracy Score:
+- Linear Regression: 0.036
+- Poisson Regression: 0.25
+- Random Forest Regression: 0.36
 ## Data Sources
 Census data: http://www.dof.ca.gov/Forecasting/Demographics/Estimates/e-5/
 
