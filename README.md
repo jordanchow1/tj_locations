@@ -4,7 +4,7 @@ The aim of this data science project was to analyze factors that might play a ro
 
 To further explore the possibile relationship between the number of stores and the median income in a neighborhood, I focused on California and pulled data on median household income for each county, county land area, population, and other census data from various sources, conducted linear regression and Poisson regression to examine the statistical significance of each of the features, and finally ran a random forest to predict the number of TJ's stores in a given county.
 ## Feature Engineering
-The US Census data contained the following city-wide variables:
+The US Census data contain the following city-wide variables:
 - Total Population
 - Households
 - Group Quarters
