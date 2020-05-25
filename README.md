@@ -2,7 +2,7 @@
 ## Overview
 The aim of this data science project was to analyze factors that might play a role in determining the number of Trader Joe's locations in a county in California. The project was inspired by a tweet on Twitter alleging that Trader Joe's tends to open stores in richer neighborhoods. The allegation was not the first of its kind and, after searching the web, I found an article (https://nextcity.org/daily/entry/infographic-why-isnt-trader-joes-moving-into-underserved-neighborhoods) that mentions that TJ's "continues to open shop in ZIP codes with above average median incomes and very small percentages of households on SNAP."
 
-To further explore the possibile relationship between the number of stores and the median income in a neighborhood, I focused on California and pulled data on median household income for each county, county land area, population, and other census statistics from various sources, conducted linear regression and Poisson regression to examine the statistical significance of each of the features, and finally ran a random forest to predict the number of TJ's stores in a given county.
+To further explore the possibile relationship between the number of stores and the median income in a neighborhood, I focused on California and pulled data on median household income for each county, county land area, population, and other census data from various sources, conducted linear regression and Poisson regression to examine the statistical significance of each of the features, and finally ran a random forest to predict the number of TJ's stores in a given county.
 ## Feature Engineering
 The US Census data contained the following city-wide variables:
 - Total Population
