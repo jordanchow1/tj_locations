@@ -20,7 +20,7 @@ R (dplyr) and Python (numpy, pandas) were used to extract the statistics for eac
 ## Webscraping
 Selenium and Python were used to extract the number of Trader Joe's stores in each of the cities in California from the Trader Joe's website, as well as county median household income from IndexMundi. A total of 138 stores in 28 counties were scraped.
 ## Selected Graphs
-![Median Household Income by County](Screen%20Shot%202020-05-22%20at%209.16.05%20PM.png | width=100)
+![Median Household Income by County](Screen%20Shot%202020-05-22%20at%209.16.05%20PM.png)
 ![Total Population vs Number of Stores](Screen%20Shot%202020-05-22%20at%209.16.53%20PM.png)
 ![Median Household Income vs Number of Stores](Screen%20Shot%202020-05-22%20at%209.17.57%20PM.png)
 ![Heatmap for All Features](Screen%20Shot%202020-05-22%20at%209.18.18%20PM.png)
