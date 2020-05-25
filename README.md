@@ -34,6 +34,14 @@ Selenium and Python were used to extract the number of Trader Joe's stores in ea
 - Linear Regression: 0.036
 - Poisson Regression: 0.25
 - Random Forest Regression: 0.36
+## Limitations
+The overall performance of the models can be attributed to the small sample size (n=28) of the dataset, which excludes cities and counties in California with no stores. The "excess zeros" problem could have lowered the performance of the Poisson model. The predicted values for the linear model are also rounded to the nearest integers since, in nature, linear regression is used with a continuous outcome variable, where here the number of stores is count data.
+
+The following improvements can be made:
+- obtaining a larger dataset by extending the analysis to cover the whole country
+- analyzing individual cities/zip codes
+- fitting a zero-inflated Poisson model
+
 ## Data Sources
 Census data: http://www.dof.ca.gov/Forecasting/Demographics/Estimates/e-5/
 
